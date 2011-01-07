@@ -1,0 +1,26 @@
+# otjni
+
+Demo code to show the connection from Clojure to OT
+
+## Usage
+
+lein run script.run
+
+## Installation on Linux
+
+Fix Makefile.API (line 269):
+JAVA_INCLUDEDIRS = -I/usr/$(LINUX_LIBDIR)/jvm/java-6-sun/include -I/usr/$(LINUX_LIBDIR)/jvm/java-6-sun/include/linux
+
+Build Open Transactions:
+
+cd OTLib
+make
+
+cd testwallet
+make -f Makefile.API LANGUAGE=java
+
+Copy libotapi.so to the jni folder of otjni.
+
+## License
+
+This is free and unencumbered software released into the public domain.

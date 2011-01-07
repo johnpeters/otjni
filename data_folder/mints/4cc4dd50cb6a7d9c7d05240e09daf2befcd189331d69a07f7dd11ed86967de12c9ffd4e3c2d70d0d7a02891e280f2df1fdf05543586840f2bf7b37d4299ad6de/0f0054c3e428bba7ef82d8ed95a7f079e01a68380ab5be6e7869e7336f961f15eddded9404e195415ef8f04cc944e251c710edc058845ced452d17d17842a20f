@@ -1,0 +1,133 @@
+-----BEGIN SIGNED MINT-----
+Hash: SAMY
+
+<?xml version="1.0"?>
+
+<mint version="1.0"
+ serverID="2b6909e3b21cbaaeebbf4900280a8506c683361590f67ace8c71742201337e7074c000144b97372983bc01f011a368bc2df389a6d89f5668ed7a188e8e7844f8"
+ assetTypeID="0f0054c3e428bba7ef82d8ed95a7f079e01a68380ab5be6e7869e7336f961f15eddded9404e195415ef8f04cc944e251c710edc058845ced452d17d17842a20f"
+ cashAcctID="b445c28c9473a2ca79fb54ab6d2adc172db68eddddfb3aa1f5cfce3d3913a76f25a56fd03a254262b84f04db3bd4e3e5b5c8cf444730fa2193d386089df85c9d"
+ series="0"
+ expiration="1299056984"
+ validFrom="1291280984"
+ validTo="1306832984" >
+
+<mintPublicKey>
+LS0tLS1CRUdJTiBQVUJMSUMgS0VZLS0tLS0KTUlHZk1BMEdDU3FHU0liM0RRRUJB
+UVVBQTRHTkFEQ0JpUUtCZ1FEZ0E2TDkwNzRNN2dzYVVtTE5aVy9aeXFBeApTQWJy
+YnhDU2hYMC94S1Q4SzFiakQ5cjJkR29jdEFhRlFPTGgvaFVNSXkyQ1JBVXlBenZp
+TWJrWE9BY1orTnAxCkNncXdTRUtZclRaUURITCtqNXphd2xjZ0oreGtPZlc0bng1
+RmV6YzFxU3g5TVJhUzhHdXhvbmdndUpNOWhyb1MKdzdHZzZua3RpdlZwVnJhWTh3
+SURBUUFCCi0tLS0tRU5EIFBVQkxJQyBLRVktLS0tLQo=
+</mintPublicKey>
+
+<mintPublicInfo denomination="1">
+eJwVkTuOGDAIRFPvafhjii2wgYMkRRQpxTa5f1jJDQiGN+Pfn/rx9ZmtVJfzOBbf
+dzVCWM8lZmeBlrq1LVQpCDtebPWmRLCxaiZDol9jg0n1OZXIbZpwjxjB7eSst7rW
+t05F3UlhuM67k5enk2SuYXhP02pAecxJFnNXI813s1Pn8bH4JmrlomAcKzrkokKO
+jEqsBjoIeUx32Ic85JyMeHXhwCiwhb8yIwPuG+QfX/9+/v3z61MWl2+rpwVWPsRp
+obJ+RePeZ2kJlsiPyXsEqWfqZMMeRwISIETR8xJ7r5FZEGYfwPfYEEAy13XcrDhX
+Z2ATfth0N5gc+jaZfJEVBHLjoHP8+T4R4EJqwk0bHTbw2bLD9bnO/tRCLvKJKr/p
+HW+VwVe1LJJMhGksd8TuW+Y1FV6jZUDEgRIwP/4DFox4wQ==
+</mintPublicInfo>
+
+<mintPublicInfo denomination="5">
+eJwVkbmREEAMBLEvGn0r7Rpn6A3kMCiqMM4hf0QAmp4e/fo8H9+ffr0kgSnw5MnB
+wZi0l6V4xhmg+FKkZJTl+B0SfmkXoUPLOczmCQmAdgt7qHBZCTW40wC10DJKSofR
+njO/jtdEwWaJeO80gImwuG6yFIgjnCe+vXy0CIl8c/gktomNOZ1pu5ZhVBpkh5Ee
+DM2CA6blMje2PI4AtTd47krmsMST05rSq/L44/vv15/fPz9f+9VNj+jSOlfgyMnQ
+DjpxVlb3UkwPS1uacQXKo6sX6SLfvmHiw7qdoFzxWYywba1SVe8VHy+Mq8nbqEA3
+WOp2l4Usrnadw7WMVMFpmv/zJ4mooQvp9rjHdNbtyK7QEkvL3WU/pefR6yT08Gon
+GOg351UM+MkXChD1GHClxqbuwniwDr3smh//AIJKeFk=
+</mintPublicInfo>
+
+<mintPublicInfo denomination="10">
+eJwdUTmSEEAINN7XMJxDsAHnQzSwrDLYxP87GkDQQNPV/fNTPr4+vYTFYHu54nWy
+YtopkasxmVPrOnprrJ2bic+9ZGGrlzAeBKGAt1dScCdFLfCcy0w2p8TRCFMhmlgP
+K/q9EyWmRWdUapaTitzMqU4ERnXOJfLT14ufMNAJt1JG8TSOhhaTtTWzcEEJaT8j
+bI8WEZrbswEVxgeQTP0klgcVTzotq4+ibezH15/vv3/9+MTWiKWz1Y+IrhDEOdZV
+U1S56fLG//FUlm5HuQ7xyvc85jUwt0GRuYjEJPbeIKzp2JU8FEDBjL4+LRzD4M4Y
+SZGekM7Az9nKPocL8dl6d3q7d9TudqoQ24xlq4ly1+HHeCBPdyavvgs8mfDP/Av2
+ouF86XW2v1jMwEHezhMkgBOWtRnPSQD59hceTnhy
+</mintPublicInfo>
+
+<mintPublicInfo denomination="25">
+eJwVkTmOGDAIRVPPadgMuJgCsxxkUkSRUkyT+4eUFhb//cevz/Px/dnw7pEyrWG8
+LyQgmLWvOBOLUVOXmovdR1L31XtWJBHHPOoe5uE4B70iX4nno7yAQfXUriI3P4sO
+QqjuZE41ttbQbsFDgMIamali2XkVDji4p+yKdmtjH6DOPsbHCkuYn/PLoSrs0zi5
+Kyo98B3gi1fu6eadDTO+ZlVCc5Y2ZRtXNTrb4121j++/X39+//zMGcDdeQGSJ9YJ
+m3dZE9Alg5J3BAsd+SCDIPh9bQ06M26QQtpM+0ch6ZUT17wqpc1/CbaSZQNleRSj
+ymISMdm232YM9VvR9Uh98QFpUc/x6AVv29Ms2M3lsF7TpSLQ6SN8Jf4rSVozL2jb
+zl4xfJxUtoroJcoKHrkXe8iGKzyAzhZT69jn/PgHm3V4bQ==
+</mintPublicInfo>
+
+<mintPublicInfo denomination="100">
+eJwVkDuOGDAIRFPvacD8iy1sPgdJiihSim1y/7CSC3vGwGN+f8rH12egVJainzgU
+jXNed2HoPGLDSJnJcRIEhpLLWTlYPiZcoEp3/9C+AL0Zrhs/K1fxTlZMOk6dOwWA
+0qcSunv1KJ4YHL64F44eYB3D3vK1wckjcivdyrJenPfonFMiDnXpjdH0TX9B38gP
+4UFH+71rv7NyiTG4NJHENzUdWRg8lsAS26nvzMfXv59///z6PHwGollm4RFVbLcp
+a6WFqK71HyNAH26eIshsz2v1uATuYNbkdbAqEw2tfD7+WFAfpnj1LZCYh6VB6PE2
+5VVnOkYs3sx4FqaW8jaDWGy72vVSJJT5ErlkUxvxiz5m4EG7w9lEkd/00dSrUGEK
+kM0qsxnl2H1OhrzrXy6lntgkLfdskGwEbD/+A/N3ed4=
+</mintPublicInfo>
+
+<mintPublicInfo denomination="500">
+eJwVkLlxEEAQBLEVzT53+xgy9g0EDIoqDDnkzymA6emZ35/34+vTz8I9FwAlMRDI
+d1EY7+FT0wvCShc8JNDzkvWwaO9qyzTfAPEhq7mih8WaoygLl9M8bQKUB6MJzoPH
+FgNsM0TyGdqHlpc9ZV4NVzKTb7sKYNhUJJQc2btzPcpf/+klgPKuouY1VHU+FgWK
+r0/VBlXUX3i6jxOVCTXCCoagv3ZymCLqld2Pr38///759XluqusTGXxvjNeyAsEd
+et7+qE5M4AUXEiJyK/apilf0faDKHMt6L6zY8jyTxFxAE7anaX2ABSBOk6FtnaDK
+90a1vbP07IzgtISS5NJbtZmipXiJO8ctrEPmm9yiWTt6yQ/Z6mtnLAuB21gtxIsK
+shPyndUjTJ2l895UfNOrqdX9fIPrRaB+/Aed7nkd
+</mintPublicInfo>
+
+<mintPublicInfo denomination="1000">
+eJwVkDluGDAMBFP7NTwkHoULisdDkiIIkMJN/h9ajVaAuMud35/34+vTiYUoTzSp
+d7moXMV9dfNqYBSeq55ddQ6C3INqb1Ca35h7XxpQm3f7PpE1mnksNZQvo8hjjYox
+Zc+pd63mgkmgphqOZb8gnTSXVo5ErX6WxnVhOlTFGdn2oiZXZLZSBTJNBwjm8+jt
+v0D27mvHnpxRvSsfcKttqLTxERcCjmt0fE5ixczH17+ff//8+lRwerZ1LWtzUjfC
+mbURRonRL5HySbu7iNcoirwCDw7rhSPTk68Py6qNDnh0ApNUuN3c5OmpXSxb47tN
+DMQggJZSZkgybLMr2O2EZKm0oYlnZ/XVPeAWKHGFbYFrOyipMdDhrmNVlvB2mgIX
+5enn+E3AemwcbHLOmhdo2pQ5Lu729HwV6P3jP38DeF0=
+</mintPublicInfo>
+
+<mintPublicInfo denomination="2000">
+eJwVkTluGDAMBFP7NRQvkYULng9xiiBACjf5f5RSBImZXf36lI/vTytDXJbKaQgO
+lkteXA2uaGSNd9PuYcCS3ubYaTNhPuWl/KbilPEe9+wANRJqgTX1rETM6L7zWwxC
+VuqdfbtN1dfU4yjmTjRQGNwK0ihUbmA2gm1oS7lomuC9kQ+1WQ+QROQ4PP70oTS9
+j4dhQC9ecdOFnPOEQsJHbO7TfaFsAQ+fCxaQH99/v/78/vl5rFfJmRnGX5qpmTxR
+RyZJu+sFv8d9rCcdwf1VwK5dqV5WACZGqmArHM+f/I4wCSzNkbsFCvTIniv3Xlms
+Qxtw6fWquvl2c/Vs4KOFhnsyWoml8REP15p6+eRGnnMa01+t0K+Y5HI9dFcI7owZ
+Fe/g+5AaIjyAKIP/RZALH/xpRfR1w9Uc8lM//gFlYHiu
+</mintPublicInfo>
+
+<mintPublicInfo denomination="10000">
+eJwdkDmOEDAMRannNF7juJjC60GgQEgUNNyfDErjRLH9/vv5qR9/PtMC+Caml1cN
+VPa2+gU87cqEdFsSVfSqWPbhruEk2z5xjRXxRnlW+mDVOSfyVrkVBOxdWE57rXd3
+cQTCrCxtWbCVByxQza8UBY2pxbYl645epjCnPIsgQGSE0MFtMI8G3oYEf5/g3eoR
+ppD0WPBYluBN2BilQVNuN8d6uciJ1ZPFy5A08+PP3++/f/34FHjAQneWWELUJd/T
+hFPkQ3iBsh2GOA8gM1mCgp6S5Fh+Y8+jgXPITC7H0+b13HRMKbVJn1svb89s6jL7
+3qZH7+fIO3dtMUOiI5la9L/+lK/25pP1BCB/+fkyBMflRZpW3AvG2DzeRI7xSn7o
+5RefjDp63Ev6Eh+0M8b37iCtb0YFzu0Jkq1v/wBpRHg5
+</mintPublicInfo>
+
+<mintPublicInfo denomination="100000">
+eJwVkTtyGEAIQ1P7NMDyLVzAAgdxikxmUrjJ/bPp1OhJoF+f8vH9OTMQl0IzKSwj
+JVzLTzUbnxTEcjlyFcoHOtK7ZfFIa+0WakuLX687ZYBIJ9FrJoE6HLoYoAScN7JW
+Kpqk3O+Mwc48FarqMYhCjLhmXpoiwXPnGncfXHlKUepwPgDeZg7tRcG+XXbQ5jzD
+lvLC6jP6UZa7KyTvOPciy8sgdKmRFsnDJnw/vv9+/fn985PLibxeR4sxo+JF7H4s
+sBJ7SB5gf6Ug+8LlXXxZ3Pb/bUPPHnDb7nlZrpQ3em6YGJiEHOoKwWCUFww4tlbe
+BYxme3X4djQwJebWHHQ7XKHMLaxHVLikWdJZpHO13eRpjBN7nEZODezdLPMtMGrH
+N+TLfADDQNIEt3oFIwA9ARMM3oAx1Zo//gGa4HjC
+</mintPublicInfo>
+
+</mint>
+-----BEGIN MINT SIGNATURE-----
+Version: Open Transactions 0.40
+Comment: http://github.com/FellowTraveler/Open-Transactions/wiki
+
+upVk3diMcWsbXjGgqkqe5S5zkqLPQesMr0CBxlEEG3CdA25GQpYbYSpqtWi5khB/
+LbiA32MfenvEvUVpIAFfE8EF6I3z2KH/HiqimbdkkGze3d1uhIrc5vz+lHkCBtvy
+FOX+L14EQTri8IuanKXhspMRxRmwAj+Sz/+bJ7CHnng=
+-----END MINT SIGNATURE-----
+

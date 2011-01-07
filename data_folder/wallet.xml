@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<wallet name="" version="1.0">
+
+<pseudonym name="eJxzc/Xx8Q9XCAlyDHP1cQ1SD1YIcQ0OUfCL9GUAAGlbBz0="
+ nymID="7d1cff65a7febacaa0bbab73fd65032e6620e6501f41961b2be3ad556d891d4f5cab52acc87c07da91fbdc940da865249cb6e0b3a6fe7d66f6b3f8eb94591b5d" />
+
+<assetType name="eJxzzihNztZ11XXOSE0tTlVwT8xNVQjJz07NK2YAAH9ZCQk="
+ assetTypeID="0f0054c3e428bba7ef82d8ed95a7f079e01a68380ab5be6e7869e7336f961f15eddded9404e195415ef8f04cc944e251c710edc058845ced452d17d17842a20f" />
+
+<assetType name=""
+ assetTypeID="2a1a9ea1b9d5ef623c2748b33c7b05d5ee04f38c67ee31437e213d73128e5eab268400f107d6cb39f61f323687ba358f7be1626a0d9377657d63e53ca04c0852" />
+
+<assetType name=""
+ assetTypeID="96806b47575d158f221dbd980225bbb965e16d41e18b23bfd4b147e889d8922a68525e3150823be758650d97260f862183bca08bf9d6d3f8f6a2b2219992eda2" />
+
+<notaryProvider name="eJzzyU9OzMnILy5RcM7PKylKTC5hAABIywcI"
+ serverID="4cc4dd50cb6a7d9c7d05240e09daf2befcd189331d69a07f7dd11ed86967de12c9ffd4e3c2d70d0d7a02891e280f2df1fdf05543586840f2bf7b37d4299ad6de" />
+
+<!-- Last retrieved balance: -93703 on date: 1292027046 -->
+<!-- Account type: issuer --><assetAccount name="eJwL9vQJcw1ScA9y9A1W0FfwDA4OBXIdnZ1DGABmVAb1"
+ accountID="174a6a0be57a8afcb8a8a3be0a0dc85181c1f6266b4d813056ef5b5f9825b6d9e353e0144ecd83ba493ce02fb7d9c4125acbd5caec7cbf69a41c7ddb73f79bbf"
+ userID="7d1cff65a7febacaa0bbab73fd65032e6620e6501f41961b2be3ad556d891d4f5cab52acc87c07da91fbdc940da865249cb6e0b3a6fe7d66f6b3f8eb94591b5d"
+ serverID="4cc4dd50cb6a7d9c7d05240e09daf2befcd189331d69a07f7dd11ed86967de12c9ffd4e3c2d70d0d7a02891e280f2df1fdf05543586840f2bf7b37d4299ad6de" />
+<!-- assetTypeID: 96806b47575d158f221dbd980225bbb965e16d41e18b23bfd4b147e889d8922a68525e3150823be758650d97260f862183bca08bf9d6d3f8f6a2b2219992eda2 -->
+
+<!-- Last retrieved balance: 0 on date: 1291280419 -->
+<!-- Account type: issuer --><assetAccount name="eJxz9gh19tZ11XX2cHUNdlVwd/R1VQjx93b1C1bQV/AMDg51DVJwdHYOYQAA38kKbg=="
+ accountID="19325879f1c10e5b9923bf9f214cc8e498a02f159170be6ef189f5fc99270b44820d57919b706f5a460404527a78517fdf808e3e5d692272061067a899837e4d"
+ userID="7d1cff65a7febacaa0bbab73fd65032e6620e6501f41961b2be3ad556d891d4f5cab52acc87c07da91fbdc940da865249cb6e0b3a6fe7d66f6b3f8eb94591b5d"
+ serverID="4cc4dd50cb6a7d9c7d05240e09daf2befcd189331d69a07f7dd11ed86967de12c9ffd4e3c2d70d0d7a02891e280f2df1fdf05543586840f2bf7b37d4299ad6de" />
+<!-- assetTypeID: 0f0054c3e428bba7ef82d8ed95a7f079e01a68380ab5be6e7869e7336f961f15eddded9404e195415ef8f04cc944e251c710edc058845ced452d17d17842a20f -->
+
+<!-- Last retrieved balance: 0 on date: 1291280847 -->
+<!-- Account type: simple --><assetAccount name="eJwlytEJgDAMBFBHuQ2c4VqjlGpSvCi4/yIKfj54heqWYK1xeWIGpc/5DEMTiPKHWKG233aCvmDjYcjo5ppeP6cQ+w=="
+ accountID="38e07c62a373aa56a75f8997ba2e1d95f6720c20f4bd4b2e150fc9d0a55db61969affcc5a71c653803c837a83b5528c3c52cbaff65b5c1d23fb63532243ec098"
+ userID="7d1cff65a7febacaa0bbab73fd65032e6620e6501f41961b2be3ad556d891d4f5cab52acc87c07da91fbdc940da865249cb6e0b3a6fe7d66f6b3f8eb94591b5d"
+ serverID="4cc4dd50cb6a7d9c7d05240e09daf2befcd189331d69a07f7dd11ed86967de12c9ffd4e3c2d70d0d7a02891e280f2df1fdf05543586840f2bf7b37d4299ad6de" />
+<!-- assetTypeID: 2a1a9ea1b9d5ef623c2748b33c7b05d5ee04f38c67ee31437e213d73128e5eab268400f107d6cb39f61f323687ba358f7be1626a0d9377657d63e53ca04c0852 -->
+
+<!-- Last retrieved balance: 93703 on date: 1292027103 -->
+<!-- Account type: simple --><assetAccount name="eJwL9vQJcw1ScA9y9A1W0Ffw8w/ydfRRcHR2DmEAAGXIBuM="
+ accountID="757f4952cec358e8fa282ed6df1ae26135fc6e496e1956ee7b119b6a956940a696d8ac73b1d6e8dacf760d1c2e9791341530a506ba1bb11606a806a9611cb9db"
+ userID="7d1cff65a7febacaa0bbab73fd65032e6620e6501f41961b2be3ad556d891d4f5cab52acc87c07da91fbdc940da865249cb6e0b3a6fe7d66f6b3f8eb94591b5d"
+ serverID="4cc4dd50cb6a7d9c7d05240e09daf2befcd189331d69a07f7dd11ed86967de12c9ffd4e3c2d70d0d7a02891e280f2df1fdf05543586840f2bf7b37d4299ad6de" />
+<!-- assetTypeID: 96806b47575d158f221dbd980225bbb965e16d41e18b23bfd4b147e889d8922a68525e3150823be758650d97260f862183bca08bf9d6d3f8f6a2b2219992eda2 -->
+
+<!-- Last retrieved balance: 0 on date: 1291280480 -->
+<!-- Account type: simple --><assetAccount name="eJxz9gh19tZ11XX2cHUNdlVwd/R1VQjx93b1C1bQV/DzD/J19FFwdHYOYQAA3z0KXA=="
+ accountID="835039075490baf48fd521a0982661eff34c7bd0d4fe46de1f2ab522797fb38edfbe4f4cc1221282fbb1124cd461f3b7ea38e593beca45f409d5fdcc3590c1c9"
+ userID="7d1cff65a7febacaa0bbab73fd65032e6620e6501f41961b2be3ad556d891d4f5cab52acc87c07da91fbdc940da865249cb6e0b3a6fe7d66f6b3f8eb94591b5d"
+ serverID="4cc4dd50cb6a7d9c7d05240e09daf2befcd189331d69a07f7dd11ed86967de12c9ffd4e3c2d70d0d7a02891e280f2df1fdf05543586840f2bf7b37d4299ad6de" />
+<!-- assetTypeID: 0f0054c3e428bba7ef82d8ed95a7f079e01a68380ab5be6e7869e7336f961f15eddded9404e195415ef8f04cc944e251c710edc058845ced452d17d17842a20f -->
+
+</wallet>
