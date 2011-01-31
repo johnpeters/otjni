@@ -13,11 +13,8 @@ JAVA_INCLUDEDIRS = -I/usr/$(LINUX_LIBDIR)/jvm/java-6-sun/include -I/usr/$(LINUX_
 
 Build Open Transactions:
 
-cd OTLib
-make
-
-cd testwallet
-make -f Makefile.API LANGUAGE=java
+make clean
+make java
 
 Copy libotapi.so to the jni folder of otjni.
 
